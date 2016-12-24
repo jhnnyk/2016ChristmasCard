@@ -1,0 +1,32 @@
+body {
+  color: #fff2f0;
+  background: #c21717;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+form {
+  font-size: 30px;
+  line-height: 1.6em;
+  background: #3c8d0d;
+  border-radius: 20px;
+  width: 50%;
+  margin: 60px auto;
+  padding: 40px 20px;
+}
+
+h1 {
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 60px;
+  letter-spacing: .1em;
+}
+
+a {
+  color: #bfe463;
+}
+
+footer {
+  margin-top: 20px;
+  padding: 60px;
+  background: #3c8d0d;
+}
