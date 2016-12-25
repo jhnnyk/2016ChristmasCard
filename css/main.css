@@ -77,7 +77,11 @@ footer {
 }
 
 
-/* Snowflakes */
+/* 
+  --- Snowflakes --- 
+  https://www.kirupa.com/html5/the_falling_snow_effect.htm
+*/
+
 #snowflakeContainer {
     position: absolute;
     left: 0px;
